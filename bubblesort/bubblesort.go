@@ -27,7 +27,6 @@ func bubblesort(numbers []int){
 	    return
 	}
     }
-
 }
 
 func sweep(numbers []int, step int) bool {
@@ -41,7 +40,7 @@ func sweep(numbers []int, step int) bool {
     j := 1
 
     // why n-step?
-    // not needed to check last number after first iteration, because it's already at the bottom of the list
+    // no need to check last number after first iteration, because it's already at the bottom of the list
     for j < n-step {
 
 	// assign numbers
