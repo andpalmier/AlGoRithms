@@ -34,11 +34,11 @@ func binarysearch(sortedList []int, lookingFor int) int{
 	if midval==lookingFor {
 	    return mid+1
 
-	// if mid is more than lookingfor -> check left sublist 
+	    // if mid is more than lookingfor -> check left sublist 
 	} else if midval >= lookingFor {
 	    end = mid
 
-	// else -> check right sublist
+	    // else -> check right sublist
 	} else {
 	    start = mid +1
 	    fmt.Println(start,end)
