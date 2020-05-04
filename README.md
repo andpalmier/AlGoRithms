@@ -7,5 +7,6 @@ I am using this repo to store some Go code that I will write while going through
 1. [Bubblesort and exercises](https://www.calhoun.io/lets-learn-algorithms-implementing-bubble-sort)
 2. [Binary search](https://www.calhoun.io/lets-learn-algorithms-implementing-binary-search)
 3. [Queue](https://www.calhoun.io/lets-learn-algorithms-queues-in-go)
-4. [Stack](https://www.calhoun.io/lets-learn-algorithms-stacks-in-go)
-5. [Various exercises](https://www.calhoun.io/lets-learn-algorithms-stacks-in-go)
+4. Stack
+5. Tree
+6. Various exercises (factorization, Fibonacci, greatest common divisor...)
